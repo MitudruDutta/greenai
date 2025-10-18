@@ -1,0 +1,23 @@
+# Minimal dependencies for Green AI Pattern Recognition
+pandas==2.0.3
+numpy==1.24.3
+psutil==5.9.5
+
+# Optional: For baseline comparison only
+scikit-learn==1.3.0
+xgboost==2.0.0
+catboost==1.2.2
+
+# Note: The optimized solution only needs pandas and numpy!
+# Other packages are for measuring baseline energy consumption.# Minimal dependencies for Green AI Pattern Recognition
+pandas==2.0.3
+numpy==1.24.3
+psutil==5.9.5
+
+# Optional: For baseline comparison only
+scikit-learn==1.3.0
+xgboost==2.0.0
+catboost==1.2.2
+
+# Note: The optimized solution only needs pandas and numpy!
+# Other packages are for measuring baseline energy consumption.
