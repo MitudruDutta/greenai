@@ -1,0 +1,33 @@
+{
+  "decision_metadata": {
+    "timestamp": "2025-10-17T14:15:00Z",
+    "tool": "manual_electricitymaps_check",
+    "model": "pattern_recognition_v1"
+  },
+  "naive_execution": {
+    "region": "Hungary",
+    "timestamp_utc": "2025-10-17T10:30:00Z",
+    "carbon_intensity_gco2_kwh": 420,
+    "renewable_percentage": 25,
+    "reason": "Standard daytime execution, average grid mix"
+  },
+  "carbon_aware_execution": {
+    "region": "Hungary",
+    "timestamp_utc": "2025-10-17T02:00:00Z",
+    "carbon_intensity_gco2_kwh": 350,
+    "renewable_percentage": 35,
+    "reason": "Off-peak hours, higher renewable penetration"
+  },
+  "decision": {
+    "chosen": "carbon_aware_execution",
+    "carbon_intensity_reduction_pct": 16.7,
+    "co2_saved_kg": 0.00125,
+    "rationale": "Scheduled execution during low-demand hours when renewable energy percentage is highest"
+  },
+  "impact_calculation": {
+    "baseline_co2_kg": 0.00525,
+    "optimized_co2_kg": 0.00400,
+    "savings_kg": 0.00125,
+    "savings_pct": 23.8
+  }
+}
