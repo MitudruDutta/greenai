@@ -147,7 +147,7 @@ If deployed for 1 million inferences/year:
 
 ## Model Access
 
-**Repository:** [github.com/yourusername/green-ai-pattern-recognition](https://github.com/yourusername/green-ai-pattern-recognition)  
+**Repository:** [github.com/MitudruDutta/greenai]
 **Code:** `pattern_solution.py`  
 **License:** MIT
 
@@ -158,14 +158,14 @@ If deployed for 1 million inferences/year:
   title = {Pattern Recognition for Green AI},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/green-ai-pattern-recognition}
+  url = {https://github.com/MitudruDutta/greenai}
 }
 ```
 
 ## Contact
 
 **Author:** Mitudru Dutta  
-**Email:** your.email@example.com  
+**Email:** mitudrudutta72@gmail.com
 **Hackathon:** HACK4EARTH Green AI 2025
 
 ---

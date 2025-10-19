@@ -23,6 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 
+
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb_checkpoints/
@@ -49,4 +50,6 @@ Thumbs.db
 # Temporary files
 temp/
 tmp/
-*.tmp
+*.tmp# Ca
+tBoost
+catboost_info/

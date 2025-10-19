@@ -120,8 +120,8 @@ Improvement: ((1.05 - 0.00042) / 1.05) × 100 ≈ 99.96% reduction
 
 ### Steps to Reproduce
 ```bash
-git clone https://github.com/yourusername/green-ai-pattern-recognition.git
-cd green-ai-pattern-recognition
+git clone https://github.com/MitudruDutta/greenai
+cd greenai
 pip install -r requirements.txt
 python measure_energy.py
 ```
