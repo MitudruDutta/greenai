@@ -1,14 +1,14 @@
 {
-  "runtime_s": 45.234567,
-  "cpu_time_s": 42.123456,
-  "energy_kwh": 0.0125,
-  "co2_kg": 5.25,
-  "water_L": 0.0225,
+  "runtime_s": 16.70731019973755,
+  "cpu_time_s": 234.27,
+  "energy_kwh": 0.0013015000000000001,
+  "co2_kg": 0.0005466300000000001,
+  "water_L": 0.0023427000000000005,
   "power_watts": 20,
   "carbon_intensity": 420,
   "region": "Hungary",
-  "timestamp_utc": "2025-10-17T10:30:00Z",
-  "mae": 0.00236,
+  "timestamp_utc": "2025-10-19T15:05:08.085750Z",
+  "mae": 0.015497125642044219,
   "n_models": 7,
   "n_features": 21
 }
